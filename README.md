@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔒 Analyse de Sécurité - Étude des Vulnérabilités Web
 
 Ce dépôt contient une analyse détaillée des vulnérabilités de sécurité identifiées sur le site web de test.
@@ -204,3 +205,6 @@ Pour toute question concernant cette analyse :
 **Version:** 1.0  
 **Date:** Analyse effectuée  
 **Statut:** Vulnérabilité confirmée et documentée
+=======
+# cyberark-automation
+>>>>>>> 741358c809cfdebd9fdddc4c7835b82dfe723ec1
