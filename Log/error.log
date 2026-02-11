@@ -1,0 +1,132 @@
+2025-07-28 07:03:19	An error occurred : {"ErrorCode":"PASWS013E","ErrorMessage":"Authentication failure for User [Adminstrator]."}.
+==========================================================
+2025-07-28 07:32:02	An error occurred : {"ErrorCode":"PASWS013E","ErrorMessage":"Authentication failure for User [Administartor]."}.
+==========================================================
+2025-07-29 00:29:08	An error occurred while adding user <amine1> : {"ErrorCode":"ITATS937E","ErrorMessage":"Limit of 20 licensed EPVUser users exceeded. New user will not be added."}.
+==========================================================
+2025-07-29 00:29:54	An error occurred : {"ErrorCode":"ITATS366E","ErrorMessage":"User Administrator is already logged on, cannot impersonate."}.
+==========================================================
+2025-07-29 00:30:06	An error occurred : {"ErrorCode":"ITATS366E","ErrorMessage":"User Administrator is already logged on, cannot impersonate."}.
+==========================================================
+2025-07-29 00:40:53	An error occurred while deleting user <amine1> : {"Message":"The requested resource does not support http method 'DELETE'."}.
+==========================================================
+2025-07-29 00:51:11	CSV File path <3> does not exist. Please try again.
+==========================================================
+2025-07-29 01:01:27	An error occurred: The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-07-29 01:37:24	No PVWA url found, please enter a valid PVWA url.
+==========================================================
+2025-07-29 01:39:36	Platform <Duplicate-WindowsDomainAccountsviaLDAP> not found.
+2025-07-29 01:42:20	Platform <Duplicate-WindowsDomainAccountsviaLDAP> not found.
+2025-07-29 01:42:52	An error occurred while retrieving details for platform : <Duplicate - Windows Domain Accounts via LDAP> : {"ErrorCode":"PASWS037E","ErrorMessage":"Platform [Duplicate - Windows Domain Accounts via LDAP] was not found."}.
+==========================================================
+2025-07-29 01:45:20	An error occurred while retrieving details for platform : <Duplicate - Windows Domain Accounts via LDAP> : {"ErrorCode":"PASWS037E","ErrorMessage":"Platform [Duplicate - Windows Domain Accounts via LDAP] was not found."}.
+==========================================================
+2025-07-29 01:45:50	Platform <Duplicate-WindowsDomainAccountsviaLDAP> not found.
+2025-07-29 01:46:42	Platform <DuplicateUnixviaSSH> not found.
+2025-07-29 02:00:41	An error occurred while retrieving details for platform : <Duplicate-WindowsDomainAccountsviaLDAP> : Missing an argument for parameter 'ForegroundColor'. Specify a parameter of type 'System.ConsoleColor' and try again..
+==========================================================
+2025-07-29 02:00:41	An error occurred while retrieving details for platform : <DuplicateUnixviaSSH> : Missing an argument for parameter 'ForegroundColor'. Specify a parameter of type 'System.ConsoleColor' and try again..
+==========================================================
+2025-07-29 02:01:52	Platform <Duplicate-WindowsDomainAccountsviaLDAP> not found.
+2025-07-29 02:01:52	Platform <DuplicateUnixviaSSH> not found.
+2025-07-29 02:16:11	Safe <> not found.
+2025-07-29 02:16:11	An error occurred while deleting safe <> : {"Message":"The requested resource does not support http method 'DELETE'."}.
+==========================================================
+2025-07-29 02:16:16	Safe <> not found.
+2025-07-29 02:16:16	An error occurred while deleting safe <> : {"Message":"The requested resource does not support http method 'DELETE'."}.
+==========================================================
+2025-07-29 02:36:57	An error occurred while adding member <ayoub> to safe <ScriptautoSafe1> : {"ErrorCode":"SFWS0014","ErrorMessage":"Failed to find user ayoub in ldap mapping acme.corp."}.
+==========================================================
+2025-07-29 02:43:50	An error occurred while updating member <> inside safe <> : {"Details":[{"ErrorCode":"PASWS011E","ErrorMessage":"Missing mandatory parameter [SafeName]","ParameterName":"SafeName"}],"ErrorCode":"PASWS167E","ErrorMessage":"There are some invalid parameters"}.
+==========================================================
+2025-07-29 02:49:48	An error occurred while deleting safe <ScriptautoSafe11> : {"Message":"The requested resource does not support http method 'DELETE'."}.
+==========================================================
+2025-07-29 02:51:54	An error occurred while deleting safe <ScriptautoSafe11> : {"Message":"The requested resource does not support http method 'DELETE'."}.
+==========================================================
+2025-07-29 03:37:20	An error occurred while adding Member <user01> to group <GrpAuto1> : {"ErrorCode":"PASWS092E","ErrorMessage":"Account group was not found."}.
+==========================================================
+2025-07-29 03:37:20	An error occurred while adding Member <user02> to group <GrpAuto1> : {"ErrorCode":"PASWS092E","ErrorMessage":"Account group was not found."}.
+==========================================================
+2025-07-29 03:38:16	An error occurred while adding account group : <GrpAuto1> : {"ErrorCode":"EPVPA012E","ErrorMessage":"Object GrpAuto1 already exists"}.
+==========================================================
+2025-07-29 03:49:27	Account group  <GrpAuto1> not found.
+==========================================================
+2025-07-29 03:49:28	Account group  <GrpAuto1> not found.
+==========================================================
+2025-07-29 04:38:23	Account group  <GrpAuto1> not found.
+==========================================================
+2025-07-29 04:37:49	Account group  <GrpAuto1> not found.
+==========================================================
+2025-07-29 04:44:12	Adding Member <user01> to group <> failed. Returned Status code : 200.
+==========================================================
+2025-07-29 04:44:14	Adding Member <user02> to group <> failed. Returned Status code : 200.
+==========================================================
+2025-07-29 04:47:50	An error occurred while adding Member <user01> to group <> : {"ErrorCode":"EPVWA115E","ErrorMessage":"Failed to add member to account group. Reason: The account already has a group"}.
+==========================================================
+2025-07-29 04:47:53	An error occurred while adding Member <user02> to group <> : {"ErrorCode":"EPVWA115E","ErrorMessage":"Failed to add member to account group. Reason: The account already has a group"}.
+==========================================================
+2025-07-29 04:50:02	An error occurred when retreiving Components Monitoring Summary : The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-07-29 04:50:39	Adding Member <user01> to group <> failed. Returned Status code : 200.
+==========================================================
+2025-07-29 04:50:41	An error occurred while adding Member <user02> to group <> : {"ErrorCode":"EPVWA115E","ErrorMessage":"Failed to add member to account group. Reason: The account already has a group"}.
+==========================================================
+2025-07-29 05:14:06	An error occurred when retrieving details for <Script1auto> : The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-07-29 05:14:06	An error occurred while updating account <Script1auto> : {"Message":"The requested resource does not support http method 'PATCH'."}.
+==========================================================
+2025-07-29 05:19:16	An error occurred while retrieving details for safe <ScriptautoSafe1> : {"ErrorCode":"ITACM040S","ErrorMessage":"User was automatically logged off from Vault (Diagnostic information: 540).\n\nLogoff from the Vault and logon again."}.
+==========================================================
+2025-07-29 05:19:16	An error occurred while updating safe <ScriptautoSafe1> : {"Message":"The requested resource does not support http method 'PUT'."}.
+==========================================================
+2025-07-29 05:39:10	An error occurred while enabling user <amine1> : {"Message":"The requested resource does not support http method 'POST'."}.
+==========================================================
+2025-07-29 05:47:03	An error occurred while retrieving groups : The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-07-29 05:53:02	An error occurred when retrieving details for <user01> : The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-07-29 05:53:02	An error occurred when Reconciling Credentials for account <user01>  The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-07-29 05:53:02	An error occurred when retrieving details for <user02> : The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-07-29 05:53:02	An error occurred when Reconciling Credentials for account <user02>  The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-07-29 05:53:02	An error occurred when retrieving details for <target-lin-4> : The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-07-29 05:53:02	An error occurred when Reconciling Credentials for account <target-lin-4>  The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-08-07 00:48:13	An error occurred while authenticating : {"ErrorCode":"ITACM012S","ErrorMessage":"Timeout has expired."}.
+==========================================================
+2025-08-07 02:43:42	An error occurred while retrieving members for account groups with ID <GrpAuto1> : {"ErrorCode":"CAWS00001E","ErrorMessage":"Group id value is invalid."}.
+==========================================================
+2025-08-07 02:58:52	An error occurred while retrieving members for account group <GrpAuto1> : The term 'including' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again..
+==========================================================
+2025-08-07 03:01:22	An error occurred while authenticating : {"ErrorCode":"PASWS013E","ErrorMessage":"Authentication failure for User [Administrator]."}.
+==========================================================
+2025-08-07 06:33:21	An error occurred while retrieving members for account group <GrpAuto1> : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again..
+==========================================================
+2025-08-07 06:34:02	No members found for account group <GrpAuto1>.
+==========================================================
+2025-08-07 06:40:29	No members found for account group <GrpAuto1>.
+==========================================================
+2025-08-07 06:45:27	Retrieved all account groups in the safe <PIM-Internal> completed successfully.
+==========================================================
+2025-08-07 06:47:00	No account groups found in the safe <TEST_AUTO_1>.
+==========================================================
+2025-08-07 06:52:20	No account groups found in the safe <TEST_AUTO_1>.
+==========================================================
+2025-08-07 06:52:45	Retrieved all account groups in the safe <PIM-Internal> completed successfully.
+==========================================================
+2025-08-07 06:52:46	No account groups found in the safe <TEST_AUTO_1>.
+==========================================================
+2025-08-08 04:40:56	An error occurred while authenticating : {"ErrorCode":"ITACM012S","ErrorMessage":"Timeout has expired."}.
+==========================================================
+2025-08-08 05:08:05	An error occurred while adding account <> : {"Details":[{"ErrorCode":"PASWS031E","ErrorMessage":"Safe [AUTO_TEST_1] was not found","ParameterName":"safeName"}],"ErrorCode":"PASWS167E","ErrorMessage":"There are some invalid parameters"}.
+==========================================================
+2025-08-08 05:12:41	An error occurred when retrieving details for <Script1autoUpdated> : The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-08-08 05:12:41	An error occurred: The underlying connection was closed: An unexpected error occurred on a send..
+==========================================================
+2025-08-08 05:14:15	An error occurred while adding account <> : {"Details":[{"ErrorCode":"PASWS168E","ErrorMessage":"Input parameter for [secretManagement.automaticManagementEnabled] value is invalid.","ParameterName":"secretManagement.automaticManagementEnabled"},{"ErrorCode":"PASWS011E","ErrorMessage":"Missing mandatory parameter [platformId]","ParameterName":"platformId"},{"ErrorCode":"PASWS031E","ErrorMessage":"Safe [TES_TAUTO_1] was not found","ParameterName":"safeName"}],"ErrorCode":"PASWS167E","ErrorMessage":"There are some invalid parameters"}.
+==========================================================

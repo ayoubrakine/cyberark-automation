@@ -1,0 +1,1394 @@
+2025-07-28 06:56:19	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-28 06:56:30	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-28 06:56:37	Components Monitoring Summary retrieved successfully.
+==========================================================
+2025-07-28 06:57:58	CSV file imported successfully.
+==========================================================
+2025-07-28 06:57:59	Retrieved all details for component <PVWA> completed successfully.
+==========================================================
+2025-07-28 06:58:00	Retrieved all details for component <CPM> completed successfully.
+==========================================================
+2025-07-28 06:58:00	Retrieved all details for component <SessionManagement> completed successfully.
+==========================================================
+2025-07-28 06:58:01	Retrieved all details for component <AIM> completed successfully.
+==========================================================
+2025-07-28 06:58:01	Retrieving details for all components from CSV file completed successfully.
+==========================================================
+2025-07-28 07:03:14	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-28 07:03:24	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-28 07:03:30	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-28 07:03:44	CSV file imported successfully.
+==========================================================
+2025-07-28 07:03:44	Adding account <Script1auto> completed successfully.
+==========================================================
+2025-07-28 07:03:44	Adding all accounts from CSV file completed successfully.
+==========================================================
+2025-07-28 07:04:19	CSV file imported successfully.
+==========================================================
+2025-07-28 07:04:20	Retrieved all details for account : <Script1auto> completed successfully.
+==========================================================
+2025-07-28 07:04:21	Updating account <Script1auto> completed successfully.
+==========================================================
+2025-07-28 07:04:21	Updating all accounts from CSV file completed successfully.
+==========================================================
+2025-07-28 07:05:02	CSV file imported successfully.
+==========================================================
+2025-07-28 07:05:03	Retrieved all details for account : <Script1autoUpdated> completed successfully.
+==========================================================
+2025-07-28 07:05:03	Deleting account <Script1autoUpdated> completed successfully.
+==========================================================
+2025-07-28 07:05:03	Deleting all accounts from CSV file completed successfully.
+==========================================================
+2025-07-28 07:15:17	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-28 07:15:37	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-28 07:15:48	CSV file imported successfully.
+==========================================================
+2025-07-28 07:15:48	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-28 07:15:49	Account <user01> is scheduled for a password verify successfully.
+==========================================================
+2025-07-28 07:15:49	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-28 07:15:49	Account <user02> is scheduled for a password verify successfully.
+==========================================================
+2025-07-28 07:15:50	Retrieved all details for account : <target-win-1> completed successfully.
+==========================================================
+2025-07-28 07:15:50	Account <target-win-1> is scheduled for a password verify successfully.
+==========================================================
+2025-07-28 07:15:50	Retrieved all details for account : <ACME\target-lin-4> completed successfully.
+==========================================================
+2025-07-28 07:15:51	Account <ACME\target-lin-4> is scheduled for a password verify successfully.
+==========================================================
+2025-07-28 07:15:51	All accounts is scheduled for a password verify from CSV file completed successfully.
+==========================================================
+2025-07-28 07:31:43	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-28 07:32:42	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-28 07:33:06	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-28 07:33:37	CSV file imported successfully.
+==========================================================
+2025-07-28 07:33:38	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-28 07:33:39	Account <user01> is scheduled for a password verify successfully.
+==========================================================
+2025-07-28 07:33:40	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-28 07:33:41	Account <user02> is scheduled for a password verify successfully.
+==========================================================
+2025-07-28 07:33:42	Retrieved all details for account : <target-win-1> completed successfully.
+==========================================================
+2025-07-28 07:33:43	Account <target-win-1> is scheduled for a password verify successfully.
+==========================================================
+2025-07-28 07:33:43	Retrieved all details for account : <ACME\target-lin-4> completed successfully.
+==========================================================
+2025-07-28 07:33:44	Account <ACME\target-lin-4> is scheduled for a password verify successfully.
+==========================================================
+2025-07-28 07:33:44	All accounts is scheduled for a password verify from CSV file completed successfully.
+==========================================================
+2025-07-28 07:55:17	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-28 07:55:27	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-28 07:55:58	CSV file imported successfully.
+==========================================================
+2025-07-28 07:55:59	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-28 07:56:00	Account <user01> is scheduled for a password change immediately for entire group successfully.
+==========================================================
+2025-07-28 07:56:00	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-28 07:56:02	Account <user02> is scheduled for a password change immediately for entire group successfully.
+==========================================================
+2025-07-28 07:56:02	Retrieved all details for account : <target-win-1> completed successfully.
+==========================================================
+2025-07-28 07:56:03	Account <target-win-1> is scheduled for a password change immediately (just for this account not for entire group) successfully.
+==========================================================
+2025-07-28 07:56:03	Retrieved all details for account : <ACME\target-lin-4> completed successfully.
+==========================================================
+2025-07-28 07:56:04	Account <ACME\target-lin-4> is scheduled for a password change immediately (just for this account not for entire group) successfully.
+==========================================================
+2025-07-28 07:56:04	All accounts is scheduled for a password change immediately from CSV file completed successfully.
+==========================================================
+2025-07-29 00:28:43	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 00:28:50	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 00:29:07	CSV file imported successfully.
+==========================================================
+2025-07-29 00:29:08	Adding all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:29:45	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 00:30:00	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 00:30:18	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 00:30:32	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 00:30:44	CSV file imported successfully.
+==========================================================
+2025-07-29 00:30:45	Adding user <amine1> completed successfully.
+==========================================================
+2025-07-29 00:30:45	Adding all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:31:45	CSV file imported successfully.
+==========================================================
+2025-07-29 00:31:47	Deleting user <amine1> completed successfully.
+==========================================================
+2025-07-29 00:31:47	Deleting all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:32:32	CSV file imported successfully.
+==========================================================
+2025-07-29 00:32:32	Adding user <amine1> completed successfully.
+==========================================================
+2025-07-29 00:32:32	Adding all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:32:42	CSV file imported successfully.
+==========================================================
+2025-07-29 00:32:44	Deleting user <amine1> completed successfully.
+==========================================================
+2025-07-29 00:32:44	Deleting all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:33:24	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 00:33:33	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 00:33:51	CSV file imported successfully.
+==========================================================
+2025-07-29 00:33:52	Adding user <amine1> completed successfully.
+==========================================================
+2025-07-29 00:33:52	Adding all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:34:38	CSV file imported successfully.
+==========================================================
+2025-07-29 00:34:40	Disactivating user <amine1> completed successfully.
+==========================================================
+2025-07-29 00:34:40	Disactivating all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:35:33	CSV file imported successfully.
+==========================================================
+2025-07-29 00:35:34	Enabling user <amine1> completed successfully.
+==========================================================
+2025-07-29 00:35:34	Enabling all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:36:31	CSV file imported successfully.
+==========================================================
+2025-07-29 00:36:33	Reseting Password for user <amine1> completed successfully.
+==========================================================
+2025-07-29 00:36:33	Reseting Password for all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:38:18	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 00:38:24	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 00:39:38	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 00:39:43	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 00:39:52	CSV file imported successfully.
+==========================================================
+2025-07-29 00:39:55	Updating user <amine1> completed successfully.
+==========================================================
+2025-07-29 00:39:55	Updating all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:40:52	CSV file imported successfully.
+==========================================================
+2025-07-29 00:40:53	User <amine1> not found.
+==========================================================
+2025-07-29 00:40:53	Deleting all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:41:22	CSV file imported successfully.
+==========================================================
+2025-07-29 00:41:24	Deleting user <amine11> completed successfully.
+==========================================================
+2025-07-29 00:41:24	Deleting all users from CSV file completed successfully.
+==========================================================
+2025-07-29 00:47:24	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 00:47:33	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 00:47:55	CSV file imported successfully.
+==========================================================
+2025-07-29 00:47:55	Adding group <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 00:47:55	Adding all groups from CSV file completed successfully.
+==========================================================
+2025-07-29 00:48:09	Retrieved 36 users successfully.
+==========================================================
+2025-07-29 00:48:31	Retrieved <21> Groups successfully.
+==========================================================
+2025-07-29 00:49:02	CSV file imported successfully.
+==========================================================
+2025-07-29 00:49:02	Retrieved all details for group : <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 00:49:04	Adding Member <david1> to group <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 00:49:04	Retrieved all details for group : <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 00:49:06	Adding Member <SafeManager02> to group <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 00:49:06	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 00:49:19	Retrieved <21> Groups successfully.
+==========================================================
+2025-07-29 00:50:15	CSV file imported successfully.
+==========================================================
+2025-07-29 00:50:18	Retrieved all details for group : <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 00:50:19	Removing Member <david1> from group <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 00:50:20	Retrieved all details for group : <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 00:50:21	Removing Member <SafeManager02> from group <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 00:50:21	Removing all Members from Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 00:51:57	CSV file imported successfully.
+==========================================================
+2025-07-29 00:51:57	Retrieved all details for group : <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 00:51:58	Updating group <auto_grp_1> ==> <auto_grp_11> completed successfully.
+==========================================================
+2025-07-29 00:51:58	Updating all groups from CSV file completed successfully.
+==========================================================
+2025-07-29 00:52:51	CSV file imported successfully.
+==========================================================
+2025-07-29 00:52:51	Retrieved all details for group : <auto_grp_11> completed successfully.
+==========================================================
+2025-07-29 00:52:52	Deleting group <auto_grp_11> completed successfully.
+==========================================================
+2025-07-29 00:52:52	Deleting all groups from CSV file completed successfully.
+==========================================================
+2025-07-29 00:59:19	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 00:59:27	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 00:59:37	Retrieved <20> Groups successfully.
+==========================================================
+2025-07-29 01:07:00	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:07:06	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:07:15	Retrieved <40> connection components successfully.
+==========================================================
+2025-07-29 01:09:15	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:09:19	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:09:22	Retrieved <37> connection components successfully.
+==========================================================
+2025-07-29 01:09:34	CSV file imported successfully.
+==========================================================
+2025-07-29 01:09:42	Importing Connection Component <PSM-Asana> completed successfully.
+==========================================================
+2025-07-29 01:09:49	Importing Connection Component <PSM-VSPHERE-Web> completed successfully.
+==========================================================
+2025-07-29 01:09:49	Importing all connection components from CSV file completed successfully.
+==========================================================
+2025-07-29 01:09:53	Retrieved <39> connection components successfully.
+==========================================================
+2025-07-29 01:16:02	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:16:21	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:16:37	Retrieved all platforms successfully.
+==========================================================
+2025-07-29 01:33:26	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:33:34	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:38:57	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:39:05	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:39:16	Retrieved all platforms successfully.
+==========================================================
+2025-07-29 01:39:36	CSV file imported successfully.
+==========================================================
+2025-07-29 01:40:07	CSV file imported successfully.
+==========================================================
+2025-07-29 01:40:35	Importing platform <GenericWebAppAuto> completed successfully.
+==========================================================
+2025-07-29 01:40:35	Importing all platforms from CSV file completed successfully.
+==========================================================
+2025-07-29 01:41:00	CSV file imported successfully.
+==========================================================
+2025-07-29 01:41:02	Exported platform <DuplicateUnixviaSSH> completed successfully.
+==========================================================
+2025-07-29 01:41:03	Exported platform <Duplicate-WindowsDomainAccountsviaLDAP> completed successfully.
+==========================================================
+2025-07-29 01:41:05	Exported platform <GenericWebAppAuto> completed successfully.
+==========================================================
+2025-07-29 01:41:05	Exporting all platforms completed successfully. Check the Exported Platform folder to find the ZIP files.
+==========================================================
+2025-07-29 01:42:18	CSV file imported successfully.
+==========================================================
+2025-07-29 01:42:52	CSV file imported successfully.
+==========================================================
+2025-07-29 01:44:46	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:44:55	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:45:20	CSV file imported successfully.
+==========================================================
+2025-07-29 01:45:50	CSV file imported successfully.
+==========================================================
+2025-07-29 01:46:31	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:46:36	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:46:41	CSV file imported successfully.
+==========================================================
+2025-07-29 01:48:59	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:49:04	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:49:13	CSV file imported successfully.
+==========================================================
+2025-07-29 01:49:13	Retrieved all details for platform : <DuplicateUnixviaSSH> completed successfully.
+==========================================================
+2025-07-29 01:49:57	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:50:04	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:50:10	CSV file imported successfully.
+==========================================================
+2025-07-29 01:50:11	Retrieved all details for platform : <DuplicateUnixviaSSH> completed successfully.
+==========================================================
+2025-07-29 01:51:06	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:51:13	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:51:19	CSV file imported successfully.
+==========================================================
+2025-07-29 01:51:19	Retrieved all details for platform : <DuplicateUnixviaSSH> completed successfully.
+==========================================================
+2025-07-29 01:52:52	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:52:58	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:53:05	CSV file imported successfully.
+==========================================================
+2025-07-29 01:53:06	Retrieved all details for platform : <DuplicateUnixviaSSH> completed successfully.
+==========================================================
+2025-07-29 01:55:18	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 01:55:23	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 01:55:27	CSV file imported successfully.
+==========================================================
+2025-07-29 01:55:27	Retrieved all details for platform : <DuplicateUnixviaSSH> completed successfully.
+==========================================================
+2025-07-29 01:56:21	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:00:26	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:00:35	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 02:00:40	CSV file imported successfully.
+==========================================================
+2025-07-29 02:00:41	Retrieving all details for all platforms from CSV file completed successfully.
+==========================================================
+2025-07-29 02:01:41	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:01:48	Authentication succeeded for <administrator> using <CyberArk>.
+==========================================================
+2025-07-29 02:01:52	CSV file imported successfully.
+==========================================================
+2025-07-29 02:01:52	Retrieved all details for platform : <Duplicate-WindowsDomainAccountsviaLDAP> completed successfully.
+==========================================================
+2025-07-29 02:01:52	Retrieved all details for platform : <DuplicateUnixviaSSH> completed successfully.
+==========================================================
+2025-07-29 02:01:52	Retrieving all details for all platforms from CSV file completed successfully.
+==========================================================
+2025-07-29 02:04:46	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:04:51	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 02:04:55	CSV file imported successfully.
+==========================================================
+2025-07-29 02:04:55	Retrieved all details for platform : <Duplicate-WindowsDomainAccountsviaLDAP> completed successfully.
+==========================================================
+2025-07-29 02:04:55	Retrieved all details for platform : <DuplicateUnixviaSSH> completed successfully.
+==========================================================
+2025-07-29 02:04:55	Retrieving all details for all platforms from CSV file completed successfully.
+==========================================================
+2025-07-29 02:13:32	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:13:42	Authentication succeeded for <aDMINISTRATOR> using <CyberArk>.
+==========================================================
+2025-07-29 02:14:37	CSV file imported successfully.
+==========================================================
+2025-07-29 02:14:40	Adding safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:14:40	Adding all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:15:03	CSV file imported successfully.
+==========================================================
+2025-07-29 02:15:03	Adding member <Vault Admins> to safe <> completed successfully.
+==========================================================
+2025-07-29 02:15:04	Adding member <ayoub> to safe <> completed successfully.
+==========================================================
+2025-07-29 02:15:04	Adding all members to safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:16:05	CSV file imported successfully.
+==========================================================
+2025-07-29 02:16:16	Deleting all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:21:23	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:21:28	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 02:21:37	CSV file imported successfully.
+==========================================================
+2025-07-29 02:21:39	Adding safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:21:39	Adding all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:21:50	CSV file imported successfully.
+==========================================================
+2025-07-29 02:21:51	Adding member <Vault Admins> to safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:21:51	Adding member <ayoub> to safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:21:52	Adding all members to safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:22:56	CSV file imported successfully.
+==========================================================
+2025-07-29 02:22:57	Updating member <Vault Admins> inside safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:22:58	Updating member <ayoub> inside safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:22:58	Updating all members inside safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:29:44	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:29:56	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 02:30:18	CSV file imported successfully.
+==========================================================
+2025-07-29 02:30:19	Deleting member <Vault Admins> from safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:30:19	Deleting member <ayoub> from safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:30:19	Deleting all members from safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:34:20	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:34:25	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 02:34:36	CSV file imported successfully.
+==========================================================
+2025-07-29 02:34:37	Adding safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:34:37	Adding all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:35:00	CSV file imported successfully.
+==========================================================
+2025-07-29 02:35:00	Adding member <Vault Admins> to safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:36:57	Adding all members to safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:43:02	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:43:09	Authentication succeeded for <administrator> using <CyberArk>.
+==========================================================
+2025-07-29 02:43:21	CSV file imported successfully.
+==========================================================
+2025-07-29 02:43:22	Adding safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:43:22	Adding all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:43:32	CSV file imported successfully.
+==========================================================
+2025-07-29 02:43:33	Adding member <Vault Admins> to safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:43:33	Adding member <Ayoub> to safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:43:33	Adding all members to safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:43:50	CSV file imported successfully.
+==========================================================
+2025-07-29 02:43:50	Updating all members inside safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:47:22	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:47:36	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 02:47:57	CSV file imported successfully.
+==========================================================
+2025-07-29 02:47:57	Updating member <Vault Admins> inside safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:47:58	Updating member <Ayoub> inside safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:47:58	Updating all members inside safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:48:26	CSV file imported successfully.
+==========================================================
+2025-07-29 02:48:27	Deleting member <Vault Admins> from safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:48:28	Deleting member <Ayoub> from safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:48:28	Deleting all members from safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:48:59	CSV file imported successfully.
+==========================================================
+2025-07-29 02:49:01	Updating safe <ScriptautoSafe1> to <ScriptautoSafe11> completed successfully.
+==========================================================
+2025-07-29 02:49:01	Updating all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:49:29	Retrieved all safes successfully.
+==========================================================
+2025-07-29 02:49:47	CSV file imported successfully.
+==========================================================
+2025-07-29 02:49:48	Deleting all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:51:31	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:51:38	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 02:51:53	CSV file imported successfully.
+==========================================================
+2025-07-29 02:51:54	Deleting all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:54:55	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:55:02	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 02:55:11	CSV file imported successfully.
+==========================================================
+2025-07-29 02:55:12	Deleting safe <ScriptautoSafe11> completed successfully.
+==========================================================
+2025-07-29 02:55:12	Deleting all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:58:14	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 02:58:22	Authentication succeeded for <aDMINISTRATOR> using <CyberArk>.
+==========================================================
+2025-07-29 02:58:37	Retrieved all safes successfully.
+==========================================================
+2025-07-29 02:59:26	CSV file imported successfully.
+==========================================================
+2025-07-29 02:59:27	Adding safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 02:59:27	Adding all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 02:59:35	Retrieved all safes successfully.
+==========================================================
+2025-07-29 03:01:58	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 03:02:07	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 03:02:12	Retrieved all safes successfully.
+==========================================================
+2025-07-29 03:31:13	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 03:32:02	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 03:32:40	CSV file imported successfully.
+==========================================================
+2025-07-29 03:32:41	Adding account group <GrpAuto1> completed successfully.
+==========================================================
+2025-07-29 03:32:41	Adding all account groups from CSV file completed successfully.
+==========================================================
+2025-07-29 03:33:22	CSV file imported successfully.
+==========================================================
+2025-07-29 03:33:22	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-07-29 03:36:21	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 03:36:32	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 03:37:18	CSV file imported successfully.
+==========================================================
+2025-07-29 03:37:19	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 03:37:20	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 03:37:20	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 03:38:16	CSV file imported successfully.
+==========================================================
+2025-07-29 03:38:16	Adding all account groups from CSV file completed successfully.
+==========================================================
+2025-07-29 03:49:04	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 03:49:14	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 03:49:26	CSV file imported successfully.
+==========================================================
+2025-07-29 03:49:27	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 03:49:27	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-07-29 03:49:28	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 03:49:28	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-07-29 03:49:28	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 04:15:26	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:15:33	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:16:19	CSV file imported successfully.
+==========================================================
+2025-07-29 04:16:20	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 04:16:21	Account <user01> is scheduled for a password reconcile successfully.
+==========================================================
+2025-07-29 04:16:21	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 04:16:22	Account <user02> is scheduled for a password reconcile successfully.
+==========================================================
+2025-07-29 04:16:22	Retrieved all details for account : <target-lin-4> completed successfully.
+==========================================================
+2025-07-29 04:16:23	Account <target-lin-4> is scheduled for a password reconcile successfully.
+==========================================================
+2025-07-29 04:16:23	All accounts is scheduled for a password reconcile from CSV file completed successfully.
+==========================================================
+2025-07-29 04:19:40	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:19:46	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:20:15	CSV file imported successfully.
+==========================================================
+2025-07-29 04:20:16	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 04:20:16	Account <user01> is scheduled for a password verify successfully.
+==========================================================
+2025-07-29 04:20:17	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 04:20:18	Account <user02> is scheduled for a password verify successfully.
+==========================================================
+2025-07-29 04:20:19	Retrieved all details for account : <target-win-1> completed successfully.
+==========================================================
+2025-07-29 04:20:19	Account <target-win-1> is scheduled for a password verify successfully.
+==========================================================
+2025-07-29 04:20:20	Retrieved all details for account : <target-lin-4> completed successfully.
+==========================================================
+2025-07-29 04:20:21	Account <target-lin-4> is scheduled for a password verify successfully.
+==========================================================
+2025-07-29 04:20:21	All accounts is scheduled for a password verify from CSV file completed successfully.
+==========================================================
+2025-07-29 04:23:36	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:23:46	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:24:06	CSV file imported successfully.
+==========================================================
+2025-07-29 04:24:07	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 04:24:07	Account <user01> is scheduled for a password change immediately (just for this account not for entire group) successfully.
+==========================================================
+2025-07-29 04:24:08	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 04:24:09	Account <user02> is scheduled for a password change immediately (just for this account not for entire group) successfully.
+==========================================================
+2025-07-29 04:24:09	Retrieved all details for account : <target-lin-4> completed successfully.
+==========================================================
+2025-07-29 04:24:10	Account <target-lin-4> is scheduled for a password change immediately (just for this account not for entire group) successfully.
+==========================================================
+2025-07-29 04:24:10	All accounts is scheduled for a password change immediately from CSV file completed successfully.
+==========================================================
+2025-07-29 04:30:59	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:31:08	Authentication succeeded for <aDMINISTRATOR> using <CyberArk>.
+==========================================================
+2025-07-29 04:31:38	CSV file imported successfully.
+==========================================================
+2025-07-29 04:31:38	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-07-29 04:32:53	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:34:35	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:34:50	CSV file imported successfully.
+==========================================================
+2025-07-29 04:34:51	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-07-29 04:37:41	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:37:49	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:37:59	CSV file imported successfully.
+==========================================================
+2025-07-29 04:37:59	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-07-29 04:38:22	CSV file imported successfully.
+==========================================================
+2025-07-29 04:38:23	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 04:38:23	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-07-29 04:37:49	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 04:37:49	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-07-29 04:37:49	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 04:43:53	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:43:59	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:44:10	CSV file imported successfully.
+==========================================================
+2025-07-29 04:44:11	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 04:44:13	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 04:44:14	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 04:47:27	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:47:34	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:47:48	CSV file imported successfully.
+==========================================================
+2025-07-29 04:47:49	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 04:47:51	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 04:47:53	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 04:50:14	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:50:24	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:50:36	CSV file imported successfully.
+==========================================================
+2025-07-29 04:50:38	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 04:50:40	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 04:50:41	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 04:51:09	Components Monitoring Summary retrieved successfully.
+==========================================================
+2025-07-29 04:55:27	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:55:35	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:56:12	CSV file imported successfully.
+==========================================================
+2025-07-29 04:56:12	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 04:56:14	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 04:56:14	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 04:57:34	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:57:39	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:58:02	CSV file imported successfully.
+==========================================================
+2025-07-29 04:58:02	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 04:58:03	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 04:58:03	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 04:58:33	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 04:58:38	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 04:58:44	CSV file imported successfully.
+==========================================================
+2025-07-29 04:58:45	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 04:58:45	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 04:58:45	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 05:08:15	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:08:35	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:08:49	Components Monitoring Summary retrieved successfully.
+==========================================================
+2025-07-29 05:09:08	Components Monitoring Summary retrieved successfully.
+==========================================================
+2025-07-29 05:09:40	CSV file imported successfully.
+==========================================================
+2025-07-29 05:09:41	Retrieved all details for component <PVWA> completed successfully.
+==========================================================
+2025-07-29 05:09:41	Retrieved all details for component <CPM> completed successfully.
+==========================================================
+2025-07-29 05:09:42	Retrieved all details for component <SessionManagement> completed successfully.
+==========================================================
+2025-07-29 05:09:42	Retrieved all details for component <AIM> completed successfully.
+==========================================================
+2025-07-29 05:09:42	Retrieving details for all components from CSV file completed successfully.
+==========================================================
+2025-07-29 05:10:12	Retrieved all accounts successfully.
+==========================================================
+2025-07-29 05:10:55	CSV file imported successfully.
+==========================================================
+2025-07-29 05:10:56	Adding account <Script1auto> completed successfully.
+==========================================================
+2025-07-29 05:10:57	Adding all accounts from CSV file completed successfully.
+==========================================================
+2025-07-29 05:14:06	CSV file imported successfully.
+==========================================================
+2025-07-29 05:14:06	Updating all accounts from CSV file completed successfully.
+==========================================================
+2025-07-29 05:14:14	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:14:17	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:14:29	CSV file imported successfully.
+==========================================================
+2025-07-29 05:14:30	Retrieved all details for account : <Script1auto> completed successfully.
+==========================================================
+2025-07-29 05:14:31	Updating account <Script1auto> completed successfully.
+==========================================================
+2025-07-29 05:14:31	Updating all accounts from CSV file completed successfully.
+==========================================================
+2025-07-29 05:15:29	CSV file imported successfully.
+==========================================================
+2025-07-29 05:15:30	Retrieved all details for account : <Script1autoUpdated> completed successfully.
+==========================================================
+2025-07-29 05:15:31	Deleting account <Script1autoUpdated> completed successfully.
+==========================================================
+2025-07-29 05:15:31	Deleting all accounts from CSV file completed successfully.
+==========================================================
+2025-07-29 05:17:05	CSV file imported successfully.
+==========================================================
+2025-07-29 05:17:06	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 05:17:07	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 05:17:07	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 05:18:03	CSV file imported successfully.
+==========================================================
+2025-07-29 05:18:04	Adding safe <ScriptautoSafe1> completed successfully.
+==========================================================
+2025-07-29 05:18:04	Adding all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 05:19:16	CSV file imported successfully.
+==========================================================
+2025-07-29 05:19:16	Updating all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 05:19:31	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:19:56	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:20:10	CSV file imported successfully.
+==========================================================
+2025-07-29 05:20:11	Updating safe <ScriptautoSafe1> to <ScriptautoSafe11> completed successfully.
+==========================================================
+2025-07-29 05:20:11	Updating all safes from CSV file completed successfully.
+==========================================================
+2025-07-29 05:21:32	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:21:41	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:22:22	CSV file imported successfully.
+==========================================================
+2025-07-29 05:22:23	Adding member <Vault Admins> to safe <ScriptautoSafe11> completed successfully.
+==========================================================
+2025-07-29 05:22:23	Adding member <Ayoub> to safe <ScriptautoSafe11> completed successfully.
+==========================================================
+2025-07-29 05:22:23	Adding all members to safes from CSV file completed successfully.
+==========================================================
+2025-07-29 05:23:46	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:23:52	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:24:36	CSV file imported successfully.
+==========================================================
+2025-07-29 05:24:36	Updating member <Vault Admins> inside safe <ScriptautoSafe11> completed successfully.
+==========================================================
+2025-07-29 05:24:37	Updating member <Ayoub> inside safe <ScriptautoSafe11> completed successfully.
+==========================================================
+2025-07-29 05:24:37	Updating all members inside safes from CSV file completed successfully.
+==========================================================
+2025-07-29 05:26:08	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:26:14	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:26:48	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:26:56	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:27:14	Retrieved all platforms successfully.
+==========================================================
+2025-07-29 05:28:09	CSV file imported successfully.
+==========================================================
+2025-07-29 05:28:21	Importing platform <GenericWebAppAuto> completed successfully.
+==========================================================
+2025-07-29 05:28:21	Importing all platforms from CSV file completed successfully.
+==========================================================
+2025-07-29 05:28:32	Retrieved all platforms successfully.
+==========================================================
+2025-07-29 05:29:23	CSV file imported successfully.
+==========================================================
+2025-07-29 05:29:24	Exported platform <DuplicateUnixviaSSH> completed successfully.
+==========================================================
+2025-07-29 05:29:25	Exported platform <Duplicate-WindowsDomainAccountsviaLDAP> completed successfully.
+==========================================================
+2025-07-29 05:29:26	Exported platform <GenericWebAppAuto> completed successfully.
+==========================================================
+2025-07-29 05:29:26	Exporting all platforms completed successfully. Check the Exported Platform folder to find the ZIP files.
+==========================================================
+2025-07-29 05:30:01	CSV file imported successfully.
+==========================================================
+2025-07-29 05:30:02	Retrieved all details for platform : <Duplicate-WindowsDomainAccountsviaLDAP> completed successfully.
+==========================================================
+2025-07-29 05:30:02	Retrieved all details for platform : <DuplicateUnixviaSSH> completed successfully.
+==========================================================
+2025-07-29 05:30:02	Retrieving all details for all platforms from CSV file completed successfully.
+==========================================================
+2025-07-29 05:31:40	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:31:50	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:32:01	Retrieved <37> connection components successfully.
+==========================================================
+2025-07-29 05:33:50	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:33:57	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:34:05	Retrieved <37> connection components successfully.
+==========================================================
+2025-07-29 05:34:37	CSV file imported successfully.
+==========================================================
+2025-07-29 05:34:40	Importing Connection Component <PSM-Asana> completed successfully.
+==========================================================
+2025-07-29 05:34:43	Importing Connection Component <PSM-VSPHERE-Web> completed successfully.
+==========================================================
+2025-07-29 05:34:43	Importing all connection components from CSV file completed successfully.
+==========================================================
+2025-07-29 05:34:48	Retrieved <39> connection components successfully.
+==========================================================
+2025-07-29 05:35:45	CSV file imported successfully.
+==========================================================
+2025-07-29 05:35:46	Adding user <amine1> completed successfully.
+==========================================================
+2025-07-29 05:35:46	Adding all users from CSV file completed successfully.
+==========================================================
+2025-07-29 05:37:03	CSV file imported successfully.
+==========================================================
+2025-07-29 05:37:05	Updating user <amine1> completed successfully.
+==========================================================
+2025-07-29 05:37:05	Updating all users from CSV file completed successfully.
+==========================================================
+2025-07-29 05:38:21	CSV file imported successfully.
+==========================================================
+2025-07-29 05:38:22	Disactivating user <amine11> completed successfully.
+==========================================================
+2025-07-29 05:38:22	Disactivating all users from CSV file completed successfully.
+==========================================================
+2025-07-29 05:39:09	CSV file imported successfully.
+==========================================================
+2025-07-29 05:39:10	User <amine1> not found.
+==========================================================
+2025-07-29 05:39:10	Enabling all users from CSV file completed successfully.
+==========================================================
+2025-07-29 05:39:36	CSV file imported successfully.
+==========================================================
+2025-07-29 05:39:37	Enabling user <amine11> completed successfully.
+==========================================================
+2025-07-29 05:39:37	Enabling all users from CSV file completed successfully.
+==========================================================
+2025-07-29 05:41:10	CSV file imported successfully.
+==========================================================
+2025-07-29 05:41:11	Deleting user <amine11> completed successfully.
+==========================================================
+2025-07-29 05:41:12	Deleting all users from CSV file completed successfully.
+==========================================================
+2025-07-29 05:42:23	CSV file imported successfully.
+==========================================================
+2025-07-29 05:42:23	Adding group <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 05:42:23	Adding all groups from CSV file completed successfully.
+==========================================================
+2025-07-29 05:42:59	CSV file imported successfully.
+==========================================================
+2025-07-29 05:42:59	Retrieved all details for group : <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 05:43:00	Adding Member <david1> to group <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 05:43:00	Retrieved all details for group : <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 05:43:01	Adding Member <SafeManager02> to group <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 05:43:01	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 05:44:01	CSV file imported successfully.
+==========================================================
+2025-07-29 05:44:02	Retrieved all details for group : <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 05:44:03	Removing Member <david1> from group <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 05:44:03	Removing all Members from Groups from CSV file completed successfully.
+==========================================================
+2025-07-29 05:47:29	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:47:33	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:48:07	CSV file imported successfully.
+==========================================================
+2025-07-29 05:48:07	Retrieved all details for group : <auto_grp_1> completed successfully.
+==========================================================
+2025-07-29 05:48:08	Updating group <auto_grp_1> ==> <auto_grp_11> completed successfully.
+==========================================================
+2025-07-29 05:48:08	Updating all groups from CSV file completed successfully.
+==========================================================
+2025-07-29 05:48:51	CSV file imported successfully.
+==========================================================
+2025-07-29 05:48:51	Retrieved all details for group : <auto_grp_11> completed successfully.
+==========================================================
+2025-07-29 05:48:51	Deleting group <auto_grp_11> completed successfully.
+==========================================================
+2025-07-29 05:48:52	Deleting all groups from CSV file completed successfully.
+==========================================================
+2025-07-29 05:49:13	Retrieved <20> Groups successfully.
+==========================================================
+2025-07-29 05:49:22	Retrieved <20> Groups successfully.
+==========================================================
+2025-07-29 05:50:34	CSV file imported successfully.
+==========================================================
+2025-07-29 05:50:34	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 05:50:35	Account <user01> is scheduled for a password verify successfully.
+==========================================================
+2025-07-29 05:50:36	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 05:50:36	Account <user02> is scheduled for a password verify successfully.
+==========================================================
+2025-07-29 05:50:06	Retrieved all details for account : <target-win-1> completed successfully.
+==========================================================
+2025-07-29 05:50:07	Account <target-win-1> is scheduled for a password verify successfully.
+==========================================================
+2025-07-29 05:50:07	Retrieved all details for account : <target-lin-4> completed successfully.
+==========================================================
+2025-07-29 05:50:08	Account <target-lin-4> is scheduled for a password verify successfully.
+==========================================================
+2025-07-29 05:50:08	All accounts is scheduled for a password verify from CSV file completed successfully.
+==========================================================
+2025-07-29 05:53:02	CSV file imported successfully.
+==========================================================
+2025-07-29 05:53:02	All accounts is scheduled for a password reconcile from CSV file completed successfully.
+==========================================================
+2025-07-29 05:53:17	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-07-29 05:53:22	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-07-29 05:53:33	CSV file imported successfully.
+==========================================================
+2025-07-29 05:53:34	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-07-29 05:53:34	Account <user01> is scheduled for a password reconcile successfully.
+==========================================================
+2025-07-29 05:53:35	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-07-29 05:53:35	Account <user02> is scheduled for a password reconcile successfully.
+==========================================================
+2025-07-29 05:53:36	Retrieved all details for account : <target-lin-4> completed successfully.
+==========================================================
+2025-07-29 05:53:36	Account <target-lin-4> is scheduled for a password reconcile successfully.
+==========================================================
+2025-07-29 05:53:36	All accounts is scheduled for a password reconcile from CSV file completed successfully.
+==========================================================
+2025-08-07 00:28:08	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 00:34:20	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 00:43:00	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 00:45:33	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 02:36:38	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 02:36:52	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 02:37:23	CSV file imported successfully.
+==========================================================
+2025-08-07 02:37:30	Adding account group <GrpAuto1> completed successfully.
+==========================================================
+2025-08-07 02:37:30	Adding all account groups from CSV file completed successfully.
+==========================================================
+2025-08-07 02:38:41	CSV file imported successfully.
+==========================================================
+2025-08-07 02:38:42	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 02:39:07	CSV file imported successfully.
+==========================================================
+2025-08-07 02:39:15	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-08-07 02:39:19	Adding Member <user01> to group <GrpAuto1> completed successfully.
+==========================================================
+2025-08-07 02:39:23	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-08-07 02:39:26	Adding Member <user02> to group <GrpAuto1> completed successfully.
+==========================================================
+2025-08-07 02:39:26	Adding all Members to Groups from CSV file completed successfully.
+==========================================================
+2025-08-07 02:43:08	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 02:43:13	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 02:43:42	CSV file imported successfully.
+==========================================================
+2025-08-07 02:44:03	CSV file imported successfully.
+==========================================================
+2025-08-07 02:44:05	Retrieved all details for account : <user01> completed successfully.
+==========================================================
+2025-08-07 02:44:08	Removing Member <user01> from group <> completed successfully.
+==========================================================
+2025-08-07 02:44:08	Removing all Members from Groups from CSV file completed successfully.
+==========================================================
+2025-08-07 02:58:16	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 02:58:24	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 02:58:51	CSV file imported successfully.
+==========================================================
+2025-08-07 02:58:52	Retrieved all members for account groups with ID <GrpAuto1> successfully.
+==========================================================
+2025-08-07 03:01:16	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 03:01:35	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 03:01:45	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 03:01:55	CSV file imported successfully.
+==========================================================
+2025-08-07 03:01:57	Retrieved all members for account group <GrpAuto1> successfully.
+==========================================================
+2025-08-07 03:02:35	CSV file imported successfully.
+==========================================================
+2025-08-07 03:02:40	Retrieved all details for account : <user02> completed successfully.
+==========================================================
+2025-08-07 03:02:50	Removing Member <user02> from group <> completed successfully.
+==========================================================
+2025-08-07 03:02:50	Removing all Members from Groups from CSV file completed successfully.
+==========================================================
+2025-08-07 03:03:09	CSV file imported successfully.
+==========================================================
+2025-08-07 03:03:10	Retrieving members for account groups with existing IDs in the CSV file was completed successfully.
+==========================================================
+2025-08-07 05:16:43	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 05:16:59	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 05:17:32	CSV file imported successfully.
+==========================================================
+2025-08-07 05:17:33	Retrieving members for account groups with existing IDs in the CSV file was completed successfully.
+==========================================================
+2025-08-07 05:19:17	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 05:19:40	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 05:20:05	CSV file imported successfully.
+==========================================================
+2025-08-07 05:20:05	Retrieving members for account groups with existing IDs in the CSV file was completed successfully.
+==========================================================
+2025-08-07 05:23:58	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 05:24:11	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 05:25:03	CSV file imported successfully.
+==========================================================
+2025-08-07 05:25:03	Retrieving members for account groups with existing IDs in the CSV file was completed successfully.
+==========================================================
+2025-08-07 05:27:06	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 05:27:15	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 05:27:22	CSV file imported successfully.
+==========================================================
+2025-08-07 05:27:23	Retrieving members for account groups with existing IDs in the CSV file was completed successfully.
+==========================================================
+2025-08-07 05:28:41	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 05:28:50	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 05:29:08	CSV file imported successfully.
+==========================================================
+2025-08-07 05:29:09	Retrieving members for account groups with existing IDs in the CSV file was completed successfully.
+==========================================================
+2025-08-07 05:34:49	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 05:34:55	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 05:35:04	CSV file imported successfully.
+==========================================================
+2025-08-07 05:35:05	Retrieving members for account groups with existing IDs in the CSV file was completed successfully.
+==========================================================
+2025-08-07 05:36:50	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 05:36:58	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 05:37:03	CSV file imported successfully.
+==========================================================
+2025-08-07 05:37:07	Retrieving members for account groups with existing IDs in the CSV file was completed successfully.
+==========================================================
+2025-08-07 05:39:03	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 05:39:09	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 05:39:14	CSV file imported successfully.
+==========================================================
+2025-08-07 05:39:15	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 05:39:15	Retrieving members for account groups with existing IDs in the CSV file was completed successfully.
+==========================================================
+2025-08-07 05:47:36	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 05:47:53	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 05:48:08	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 05:48:32	CSV file imported successfully.
+==========================================================
+2025-08-07 05:48:44	Adding account group <GrpAuto1> completed successfully.
+==========================================================
+2025-08-07 05:48:44	Adding all account groups from CSV file completed successfully.
+==========================================================
+2025-08-07 05:49:18	CSV file imported successfully.
+==========================================================
+2025-08-07 05:49:20	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 05:49:20	Retrieving members for account groups with existing IDs in the CSV file was completed successfully.
+==========================================================
+2025-08-07 06:20:08	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 06:20:16	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 06:20:38	CSV file imported successfully.
+==========================================================
+2025-08-07 06:20:38	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 06:20:57	CSV file imported successfully.
+==========================================================
+2025-08-07 06:20:57	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 06:21:03	Retrieved all members for account group <GrpAuto1> successfully.
+==========================================================
+2025-08-07 06:25:41	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 06:25:48	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 06:25:56	CSV file imported successfully.
+==========================================================
+2025-08-07 06:25:57	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 06:25:59	Retrieved all members for account group <GrpAuto1> successfully.
+==========================================================
+2025-08-07 06:28:05	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 06:28:17	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 06:28:24	CSV file imported successfully.
+==========================================================
+2025-08-07 06:28:26	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 06:28:32	Retrieved all members for account group <GrpAuto1> successfully.
+==========================================================
+2025-08-07 06:32:59	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 06:33:11	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 06:33:18	CSV file imported successfully.
+==========================================================
+2025-08-07 06:33:20	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 06:33:40	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 06:33:47	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 06:33:59	CSV file imported successfully.
+==========================================================
+2025-08-07 06:34:00	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 06:38:48	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 06:38:56	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 06:39:25	CSV file imported successfully.
+==========================================================
+2025-08-07 06:39:25	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 06:40:27	CSV file imported successfully.
+==========================================================
+2025-08-07 06:40:28	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 06:44:46	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 06:45:01	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 06:45:26	CSV file imported successfully.
+==========================================================
+2025-08-07 06:46:59	CSV file imported successfully.
+==========================================================
+2025-08-07 06:52:01	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-07 06:52:12	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-07 06:52:19	CSV file imported successfully.
+==========================================================
+2025-08-07 06:52:20	Retrieved all account groups in the safe <TEST_AUTO_1> successfully.
+==========================================================
+2025-08-07 06:52:20	Retrieving all account groups inside safes mentioned in the CSV file was completed successfully.
+==========================================================
+2025-08-07 06:52:45	CSV file imported successfully.
+==========================================================
+2025-08-07 06:52:45	Retrieved all account groups in the safe <PIM-Internal> successfully.
+==========================================================
+2025-08-07 06:52:46	Retrieved all account groups in the safe <TEST_AUTO_1> successfully.
+==========================================================
+2025-08-07 06:52:46	Retrieving all account groups inside safes mentioned in the CSV file was completed successfully.
+==========================================================
+2025-08-08 04:36:48	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-08 05:06:02	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-08 05:06:10	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-08 05:08:04	CSV file imported successfully.
+==========================================================
+2025-08-08 05:08:05	Adding all accounts from CSV file completed successfully.
+==========================================================
+2025-08-08 05:08:27	Retrieved all safes successfully.
+==========================================================
+2025-08-08 05:09:03	CSV file imported successfully.
+==========================================================
+2025-08-08 05:09:04	Adding account <Script1auto> completed successfully.
+==========================================================
+2025-08-08 05:09:04	Adding all accounts from CSV file completed successfully.
+==========================================================
+2025-08-08 05:12:41	CSV file imported successfully.
+==========================================================
+2025-08-08 05:12:41	Deleting all accounts from CSV file completed successfully.
+==========================================================
+2025-08-08 05:13:56	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-08 05:14:05	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-08 05:14:15	CSV file imported successfully.
+==========================================================
+2025-08-08 05:14:15	Adding all accounts from CSV file completed successfully.
+==========================================================
+2025-08-08 05:14:42	Using PVWA url <https://comp01.acme.corp/PasswordVault>.
+==========================================================
+2025-08-08 05:14:50	Authentication succeeded for <Administrator> using <CyberArk>.
+==========================================================
+2025-08-08 05:14:58	CSV file imported successfully.
+==========================================================
+2025-08-08 05:14:59	Adding account <Script1auto> completed successfully.
+==========================================================
+2025-08-08 05:14:59	Adding all accounts from CSV file completed successfully.
+==========================================================
